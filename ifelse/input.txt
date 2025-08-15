@@ -1,0 +1,25 @@
+
+int a;
+int b; // Declare b
+int c; // Declare c
+
+a = 10;
+b = 3;
+c = 5; // Now c is declared
+
+if(b > 3)
+{
+    int d; // Example: declare d inside if block
+    d = 1;
+}
+else if (b< 2)
+{
+    char e; 
+    e = 'x';
+}
+else
+{
+    double f;
+    f=3.14;
+
+}
